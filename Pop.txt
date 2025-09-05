@@ -1,1 +1,1 @@
-print("Playing video games")
+print("Indoor games")
